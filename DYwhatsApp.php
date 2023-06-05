@@ -7,7 +7,7 @@ if (isset($_POST['submit'])) {
     $layanan    = $_POST['layanan'];
     $no_otp     = '62895333398506'; // NOMOR YANG TERDAFTAR DI DYwhatsApp
     $key        = 'mfyVRInYGiJ8hdE6UiVfP4tT1xdF8u'; // API KEY DYwhatsApp
-    $url        = 'https://dywhatsap.com/api-DYwhatsApp';
+    $url        = 'https://wa.dipsy.id/api-DYwhatsApp';
 
 
     // Message yang mau di kirim
